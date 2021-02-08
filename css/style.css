@@ -4,5 +4,8 @@
 }
 .header
 {
-    background-image: url('../images/banner1.jpg');
+height: 100%;
+
+  background-image: url("/images/banner1.jpg");
+
 }
